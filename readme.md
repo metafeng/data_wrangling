@@ -17,9 +17,9 @@ Wrangling是个奇怪的词。让我们检查一下定义。
 
 # Jupyter Noteboks
 
-了解收集，评估和清洗数据的数据争夺过程。了解如何使用Python以编程方式处理数据并为更深入的分析做好准备。
+了解收集，评估和清洗数据的数据争论过程。了解如何使用Python以编程方式处理数据并为更深入的分析做好准备。
 
-- 模块01：  [数据争夺简介](data_wrangling_template.ipynb)
+- 模块01：  [数据争论简介](data_wrangling_template.ipynb)
 
 通过简要的流程演练，确定数据争论过程的每个步骤（收集，评估，清理）。本模块数据集是Kaggle的在线职位发布数据集。
 
@@ -34,3 +34,7 @@ Wrangling是个奇怪的词。让我们检查一下定义。
 - 模块04：  [清洗数据](https://github.com/hufe09/DataWrangling/blob/master/Clean/Cleaning.ipynb)
 
  使用Pandas，清除您在“评估数据”模块中确定的质量和整洁问题。数据集是相同的：模拟新的口服胰岛素的第二阶段临床试验数据，称为Auralin。
+
+
+
+> [个人博客](<https://hufe09.github.io/archive/?tag=Data+Wrangling>)
